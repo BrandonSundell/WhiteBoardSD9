@@ -4,10 +4,7 @@ namespace OddOrEven
 {
     class Program
     {
-        static bool IsOdd(int inputValue)
-        {
-            if (inputValue % 2 == 0) return false;
-        }
+        static bool IsOdd(int inputValue) => inputValue % 2 != 0;
 
         static bool IsEven(int inputValue) => inputValue % 2 == 0;
         static void Main(string[] args)
