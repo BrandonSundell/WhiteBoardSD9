@@ -2,11 +2,11 @@
 
 namespace OddOrEven
 {
-    class Program
+    public static class OddsOrEvens
     {
-        static bool IsOdd(int inputValue) => inputValue % 2 != 0;
+        public static bool IsOdd(int inputValue) => inputValue % 2 != 0;
 
-        static bool IsEven(int inputValue) => inputValue % 2 == 0;
+        public static bool IsEven(int inputValue) => inputValue % 2 == 0;
         static void Main(string[] args)
         {
             Console.WriteLine("OddOrEven");

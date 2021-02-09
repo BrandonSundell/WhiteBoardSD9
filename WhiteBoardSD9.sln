@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOrEven", "OddOrEven\OddO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleGeometry", "SimpleGeometry\SimpleGeometry.csproj", "{A3F1D559-9C44-41A3-82D4-5198FC717D22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabetize", "Alphabetize\Alphabetize.csproj", "{8EE02643-B4EF-47B9-82DA-282AE6B29AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabetize", "Alphabetize\Alphabetize.csproj", "{8EE02643-B4EF-47B9-82DA-282AE6B29AF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetizeTest", "AlphabetizeTest\AlphabetizeTest.csproj", "{418EC5FF-925C-45B4-9774-66160962D04C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetizeTest", "AlphabetizeTest\AlphabetizeTest.csproj", "{418EC5FF-925C-45B4-9774-66160962D04C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{5F5FFF97-177A-4305-984B-F0569ABF1579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCase", "CamelCase\CamelCase.csproj", "{5F5FFF97-177A-4305-984B-F0569ABF1579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCaseTest", "CamelCaseTest\CamelCaseTest.csproj", "{62613632-D26E-4322-B6CA-8922280A78E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCaseTest", "CamelCaseTest\CamelCaseTest.csproj", "{62613632-D26E-4322-B6CA-8922280A78E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenTest", "OddOrEvenTest\OddOrEvenTest.csproj", "{DF2BF444-757E-4839-AC05-257451413210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,26 @@ Global
 		{62613632-D26E-4322-B6CA-8922280A78E1}.Release|x64.Build.0 = Release|Any CPU
 		{62613632-D26E-4322-B6CA-8922280A78E1}.Release|x86.ActiveCfg = Release|Any CPU
 		{62613632-D26E-4322-B6CA-8922280A78E1}.Release|x86.Build.0 = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|ARM.Build.0 = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|x64.Build.0 = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|ARM.ActiveCfg = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|ARM.Build.0 = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|ARM64.Build.0 = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|x64.ActiveCfg = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|x64.Build.0 = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF2BF444-757E-4839-AC05-257451413210}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
